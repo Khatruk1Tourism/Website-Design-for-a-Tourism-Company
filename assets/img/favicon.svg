@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="شركة خاطرك">
+  <rect width="64" height="64" rx="16" fill="#082726"/>
+  <path d="M13 47V28a19 19 0 0 1 38 0v19" fill="none" stroke="#C7A15B" stroke-width="2"/>
+  <path d="M20 47V30a12 12 0 0 1 24 0v17" fill="none" stroke="#E3C894" stroke-width="1" opacity=".5"/>
+  <path d="M32 21.5l2.4 6.6 6.6 2.4-6.6 2.4L32 39.5l-2.4-6.6L23 30.5l6.6-2.4L32 21.5Z" fill="#E3C894"/>
+</svg>
